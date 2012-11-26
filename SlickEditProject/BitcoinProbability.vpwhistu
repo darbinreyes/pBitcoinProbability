@@ -1,0 +1,36 @@
+[Global]
+CurrentProject=BitcoinProbability.vpj
+[ProjectDates]
+BitcoinProbability.vpj=20121126094928000
+[ActiveConfig]
+BitcoinProbability.vpj=Release
+[TreeExpansion2]
+-@ BitcoinProbability.vpj
+  - Source Files
+  + Header Files
+  + Resource Files
+  + Bitmaps
+  + Other Files
+scroll:0
+[State]
+SCREEN: 1920 1080 960 22 960 948 0 0 N 0 0 0 0 579 635 0
+CWD: ../SlickEditProject
+BUFFER: BN="../MtGoxApiHowTo.js"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=JavaScript	HM=0 MF=53609056 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=0 ESBU2=1 CL="" SC="" SCE= SCU=
+VIEW: LN=.352 CL=2 LE=0 CX=3 CY=10 WI=5 BI=14 HT=0 HN=0 HF=0 HC=4
+BUFFER: BN="../index.php"
+BI: MA=1 74 1  TABS=1 5  WWS=1 IWT=0 ST=0 IN=2 BW=0 US=32000 RO=0 SE=1 SN=0 BIN=0 MN=HTML	HM=0 MF=52560416 TL=0 MLL=0 ASE=0 LNL=1 LCF=6 CAPS=0 E=0 ESBU2=16 CL="" SC="" SCE= SCU=
+VIEW: LN=.1077 CL=18 LE=0 CX=19 CY=26 WI=5 BI=15 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 0 1192 444 0 0 N  WF=0 WT=1 ",,,"
+BUFFER: BN="../MtGoxApiHowTo.js"
+VIEW: LN=.352 CL=2 LE=0 CX=5 CY=10 WI=149 BI=14 HT=0 HN=0 HF=0 HC=4
+WINDOW: 0 22 448 444 0 0 M  WF=0 WT=2 ",,,"
+BUFFER: BN="../index.php"
+VIEW: LN=.1326 CL=99 LE=42 CX=60 CY=31 WI=186 BI=15 HT=0 HN=0 HF=0 HC=4
+FILEHIST: 5
+../../../.bash_profile
+../../../Dev/LamePokerBot/LamePokerBot/bjcard.py
+../../../Dev/LamePokerBot/LamePokerBot/card.py
+../MtGoxApiHowTo.js
+../index.php
+TBCLASS: 0 0
